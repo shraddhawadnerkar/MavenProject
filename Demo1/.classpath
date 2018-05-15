@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/jarFiles/ATUReporter_Selenium_testNG_5.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/ATUTestRecorder_2.1.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/byte-buddy-1.7.9.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/client-combined-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/client-combined-3.11.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/extentreports-3.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/mail.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/pdfbox-app-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/selenium-server-standalone-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarFiles/testng-6.9.10.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
